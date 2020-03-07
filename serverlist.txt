@@ -21,8 +21,8 @@ ukm1-ovpn-udp.ivacy.net
 vlus-au1.dns2use.com
 usla1-ovpn-udp.ivacy.net
 usla1-ovpn-tcp.ivacy.net
-usnj2-ovpn-udp.ivacy.net
-usny1-ovpn-tcp.ivacy.net
+#usnj2-ovpn-udp.ivacy.net
+#usny1-ovpn-tcp.ivacy.net
 usny1-ovpn-udp.ivacy.net
-usny1.dns2use.com
+#usny1.dns2use.com
 
